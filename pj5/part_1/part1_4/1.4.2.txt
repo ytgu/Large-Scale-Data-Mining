@@ -1,0 +1,8 @@
+Before Feb. 1, 8:00 a.m.:
+  average mae (random forest) is 130.622565 
+
+Between Feb. 1, 8:00 a.m. and 8:00 p.m.:
+  average mae (random forest) is 866.768182 
+
+After Feb. 1, 8:00 p.m.:
+  average mae (random forest) is 14.548464 

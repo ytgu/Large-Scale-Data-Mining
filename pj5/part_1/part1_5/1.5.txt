@@ -1,0 +1,30 @@
+mae (random forest) for sample1_period1.txt is 110.189120
+[ 137.   82.   68.   94.  171.  178.]
+[ 288.18911962]
+mae (random forest) for sample2_period2.txt is 4803.160000
+[  7591.   9361.  10374.  20066.  81958.  82923.]
+[ 87726.16]
+mae (random forest) for sample3_period3.txt is 264.879700
+[ 442.  549.  610.  888.  616.  523.]
+[ 787.87970005]
+mae (random forest) for sample4_period1.txt is 184.090633
+[ 421.  255.  236.  266.  267.  201.]
+[ 385.09063301]
+mae (random forest) for sample5_period1.txt is 98.110231
+[ 351.  505.  352.  359.  282.  210.]
+[ 308.11023122]
+mae (random forest) for sample6_period2.txt is 11198.540000
+[   980.  12943.  60627.  52695.  41016.  37293.]
+[ 26094.46]
+mae (random forest) for sample7_period3.txt is 10.294603
+[ 125.  102.   66.   60.   55.  120.]
+[ 109.70539684]
+mae (random forest) for sample8_period1.txt is 89.546920
+[ 49.  72.  56.  41.  11.]
+[ 100.54692004]
+mae (random forest) for sample9_period2.txt is 891.389329
+[ 1729.  1734.  1619.  1582.  1857.  2790.]
+[ 1898.6106711]
+mae (random forest) for sample10_period3.txt is 49.866678
+[ 64.  53.  67.  62.  58.  61.]
+[ 110.86667828]

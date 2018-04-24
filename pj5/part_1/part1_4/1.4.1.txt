@@ -1,0 +1,107 @@
+=========================================================================
+hashtage is: tweets_#gohawks.txt 
+
+Before Feb. 1, 8:00 a.m.:
+  average mae (linear) is 275.960716
+  average mae (knn) is 127.125254
+  average mae (random forest) is 175.267378 
+
+Between Feb. 1, 8:00 a.m. and 8:00 p.m.:
+  average mae (linear) is 5629.302606
+  average mae (knn) is 2184.250000
+  average mae (random forest) is 2173.825000 
+
+After Feb. 1, 8:00 p.m.:
+  average mae (linear) is 130.150709
+  average mae (knn) is 19.904487
+  average mae (random forest) is 18.644120 
+
+=========================================================================
+hashtage is: tweets_#gopatriots.txt 
+
+Before Feb. 1, 8:00 a.m.:
+  average mae (linear) is 22.644594
+  average mae (knn) is 11.545645
+  average mae (random forest) is 11.905293 
+
+Between Feb. 1, 8:00 a.m. and 8:00 p.m.:
+  average mae (linear) is 1375.506178
+  average mae (knn) is 852.280000
+  average mae (random forest) is 763.925000 
+
+After Feb. 1, 8:00 p.m.:
+  average mae (linear) is 29.890780
+  average mae (knn) is 2.037692
+  average mae (random forest) is 1.496957 
+
+=========================================================================
+hashtage is: tweets_#nfl.txt 
+
+Before Feb. 1, 8:00 a.m.:
+  average mae (linear) is 123.758905
+  average mae (knn) is 123.499841
+  average mae (random forest) is 119.219170 
+
+Between Feb. 1, 8:00 a.m. and 8:00 p.m.:
+  average mae (linear) is 4932.455134
+  average mae (knn) is 2962.430000
+  average mae (random forest) is 2493.260000 
+
+After Feb. 1, 8:00 p.m.:
+  average mae (linear) is 240.889135
+  average mae (knn) is 140.111099
+  average mae (random forest) is 112.216011 
+
+=========================================================================
+hashtage is: tweets_#patriots.txt 
+
+Before Feb. 1, 8:00 a.m.:
+  average mae (linear) is 333.595942
+  average mae (knn) is 176.492410
+  average mae (random forest) is 222.078911 
+
+Between Feb. 1, 8:00 a.m. and 8:00 p.m.:
+  average mae (linear) is 35532.004309
+  average mae (knn) is 16463.970000
+  average mae (random forest) is 18302.700000 
+
+After Feb. 1, 8:00 p.m.:
+  average mae (linear) is 285.728559
+  average mae (knn) is 74.038571
+  average mae (random forest) is 71.262363 
+
+=========================================================================
+hashtage is: tweets_#sb49.txt 
+
+Before Feb. 1, 8:00 a.m.:
+  average mae (linear) is 40.410492
+  average mae (knn) is 61.854651
+  average mae (random forest) is 45.143820 
+
+Between Feb. 1, 8:00 a.m. and 8:00 p.m.:
+  average mae (linear) is 60173.428458
+  average mae (knn) is 33339.480000
+  average mae (random forest) is 31783.620000 
+
+After Feb. 1, 8:00 p.m.:
+  average mae (linear) is 405.549713
+  average mae (knn) is 169.958791
+  average mae (random forest) is 109.577143 
+
+=========================================================================
+hashtage is: tweets_#superbowl.txt 
+
+Before Feb. 1, 8:00 a.m.:
+  average mae (linear) is 302.266136
+  average mae (knn) is 318.356945
+  average mae (random forest) is 277.074630 
+
+Between Feb. 1, 8:00 a.m. and 8:00 p.m.:
+  average mae (linear) is 486602.065735
+  average mae (knn) is 60151.860000
+  average mae (random forest) is 67685.320000 
+
+After Feb. 1, 8:00 p.m.:
+  average mae (linear) is 1391.395157
+  average mae (knn) is 280.094396
+  average mae (random forest) is 245.104670 
